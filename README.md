@@ -1,3 +1,5 @@
+ ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ## My name is André Domingues and my nickname is "Andravi"!
 
 - 🔭 I’m currently working on web frontend and mobile development.
